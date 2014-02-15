@@ -9,7 +9,7 @@ The video will always horizontally fill its parent element so this element shoul
 To install using Bower and Grunt:
 
 ```bash
-bower install angular-fluidVid --save-dev
+bower install angular-fluidVid --save
 grunt bower-install
 ```
 
