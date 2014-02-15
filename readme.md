@@ -22,3 +22,5 @@ If you do not use Bower and Grunt, you can download the package and source the d
 ```html
 <div fluid-video video-type="vimeo" video-id="56733081"></div>
 ```
+
+[![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/tinacious/angular-fluidvid/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
