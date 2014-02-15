@@ -1,0 +1,9 @@
+{
+  "name": "angular-fluidVid",
+  "description": "AngularJS directive for fluid YouTube and Vimeo videos.",
+  "version": "1.0",
+  "main": "angular-fluidVid.js",
+  "ignore": [
+    "readme.md"
+  ]
+}
